@@ -1,0 +1,84 @@
+m255
+K3
+13
+cModel Technology
+Z0 dC:\altera\13.0sp1
+vArrayMultiplier
+Z1 IoJ53iO0Ni^a_DHoQ=63g:0
+Z2 VF:jiSa9m8B9_Fh0aAOA`B3
+Z3 dD:\verilog\EXAM\SOAL1PYTH
+Z4 w1716151262
+Z5 8D:/verilog/EXAM/SOAL1PYTH/arrayMultiplier.v
+Z6 FD:/verilog/EXAM/SOAL1PYTH/arrayMultiplier.v
+L0 31
+Z7 OV;L;10.1d;51
+r1
+31
+Z8 !s108 1716152169.842000
+Z9 !s107 D:/verilog/EXAM/SOAL1PYTH/arrayMultiplier.v|
+Z10 !s90 -reportprogress|300|-work|work|D:/verilog/EXAM/SOAL1PYTH/arrayMultiplier.v|
+Z11 o-work work -O0
+Z12 n@array@multiplier
+!i10b 1
+Z13 !s100 8_>=DIAmMmI]@7hJW]Ejm0
+!s85 0
+!s101 -O0
+vCell
+Z14 !s100 m@li2fbUDM;cnWKTSkK2z0
+Z15 IIcn7Tg?OMXmbd3=mzo3;^2
+Z16 V2ePXV9MgS;B^3]oH^dEGg3
+R3
+R4
+R5
+R6
+L0 17
+R7
+r1
+31
+R8
+R9
+R10
+R11
+Z17 n@cell
+!i10b 1
+!s85 0
+!s101 -O0
+vDoubleCell
+Z18 !s100 KPm=9EBnG;eeHFOVA<7A60
+Z19 I?:<:hlJ8AZnccl;i5H[gz2
+Z20 VKZ?O8A6A;YzXn7^9k@^dS2
+R3
+R4
+R5
+R6
+L0 2
+R7
+r1
+31
+R8
+R9
+R10
+R11
+Z21 n@double@cell
+!i10b 1
+!s85 0
+!s101 -O0
+vtb
+!i10b 1
+!s100 FNjQQLTa5C0]]^2UScH020
+IIO1H>:G[iz3c__BS1E<jh0
+Z22 VV@Xn<HnSRM[I5c1?BH]3a3
+R3
+w1716151264
+Z23 8D:/verilog/EXAM/SOAL1PYTH/tb.v
+Z24 FD:/verilog/EXAM/SOAL1PYTH/tb.v
+L0 2
+R7
+r1
+!s85 0
+31
+!s108 1716152169.959000
+!s107 D:/verilog/EXAM/SOAL1PYTH/tb.v|
+Z25 !s90 -reportprogress|300|-work|work|D:/verilog/EXAM/SOAL1PYTH/tb.v|
+!s101 -O0
+R11

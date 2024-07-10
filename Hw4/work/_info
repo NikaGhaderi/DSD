@@ -1,0 +1,103 @@
+m255
+K3
+13
+cModel Technology
+Z0 dD:\verilog\emtehani4
+vcomparator
+Z1 !s100 zz::ZOi8dM=bSU0m0`eY>3
+Z2 ISah]g;AMbSTZc@n:2@1f[2
+Z3 V82LC3WeFD7gXnVi?bzXHh1
+Z4 dD:\verilog\EXAM\SOAL7
+Z5 w1716242446
+Z6 8D:/verilog/EXAM/SOAL7/comparator.v
+Z7 FD:/verilog/EXAM/SOAL7/comparator.v
+L0 2
+Z8 OV;L;10.1d;51
+r1
+31
+Z9 !s90 -reportprogress|300|-work|work|D:/verilog/EXAM/SOAL7/comparator.v|
+Z10 o-work work -O0
+Z11 !s108 1716279782.259000
+Z12 !s107 D:/verilog/EXAM/SOAL7/comparator.v|
+!i10b 1
+!s85 0
+!s101 -O0
+vtcam
+Z13 !s100 GV1mgLZd1Pa150B_bA`b]1
+Z14 IMM4[cIWV1Tjzz0Zzb:^OT0
+Z15 V:kL^V1ZA4b<<;TkM_][CC2
+R4
+Z16 w1716235031
+Z17 8D:\verilog\EXAM\SOAL7\tcam.v
+Z18 FD:\verilog\EXAM\SOAL7\tcam.v
+L0 1
+R8
+r1
+31
+Z19 !s90 -reportprogress|300|-work|work|D:\verilog\EXAM\SOAL7\tcam.v|
+R10
+Z20 !s108 1716279782.209000
+Z21 !s107 D:\verilog\EXAM\SOAL7\tcam.v|
+!i10b 1
+!s85 0
+!s101 -O0
+vtcam_TB
+Z22 !s100 VHmIGQ6@CNjH<Ki6NQ2Z41
+Z23 IOaf<AnUGinIDa9:IEa`cA1
+Z24 VQVocnzM0SSdg:97FPe^B83
+R4
+Z25 w1716159162
+Z26 8D:/verilog/EXAM/SOAL7/tcam_tb.v
+Z27 FD:/verilog/EXAM/SOAL7/tcam_tb.v
+L0 1
+R8
+r1
+31
+Z28 !s90 -reportprogress|300|-work|work|D:/verilog/EXAM/SOAL7/tcam_tb.v|
+R10
+Z29 ntcam_@t@b
+Z30 !s108 1716279782.298000
+Z31 !s107 D:/verilog/EXAM/SOAL7/tcam_tb.v|
+!i10b 1
+!s85 0
+!s101 -O0
+vtcam_TB2
+Z32 !s100 BPe[Q:kVSbocPHUJhAz_G0
+Z33 I2^ZcdIzYlXiTNgCNdCjoi1
+Z34 V_d5D>@9KCbV66Ci8>V;oM3
+R4
+Z35 w1716229951
+Z36 8D:/verilog/EXAM/SOAL7/tcam_tb2.v
+Z37 FD:/verilog/EXAM/SOAL7/tcam_tb2.v
+L0 1
+R8
+r1
+31
+Z38 !s90 -reportprogress|300|-work|work|D:/verilog/EXAM/SOAL7/tcam_tb2.v|
+R10
+Z39 ntcam_@t@b2
+!i10b 1
+!s85 0
+Z40 !s108 1716279782.338000
+Z41 !s107 D:/verilog/EXAM/SOAL7/tcam_tb2.v|
+!s101 -O0
+vtcam_TB3
+!i10b 1
+!s100 G?D;[Efo_Dm4HSBzS2n_j1
+IzP@O5B=^oLVS[n6DVUJAz3
+Z42 V=VRPGi8SKiJ:9^aKWkMGA3
+R4
+w1716279771
+Z43 8D:/verilog/EXAM/SOAL7/tcam_tb3.v
+Z44 FD:/verilog/EXAM/SOAL7/tcam_tb3.v
+L0 1
+R8
+r1
+!s85 0
+31
+!s108 1716279782.379000
+!s107 D:/verilog/EXAM/SOAL7/tcam_tb3.v|
+Z45 !s90 -reportprogress|300|-work|work|D:/verilog/EXAM/SOAL7/tcam_tb3.v|
+!s101 -O0
+R10
+Z46 ntcam_@t@b3
